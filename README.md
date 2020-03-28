@@ -50,7 +50,7 @@ A cloud based remote android managment suite, powered by NodeJS
     - `pm2 startup` <- to run botnet on startup
 
 6. Default Username & Password
-    - User Name: admin
+    - Username: admin
     - Password: admin
     
 7. Set Username & Password Manually  
