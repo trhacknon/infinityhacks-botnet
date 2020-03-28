@@ -68,7 +68,7 @@ It's recommended to run Botnet behind a reverse proxy such as [NGINX](https://ww
 Infinityhacks Botnet is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Made By <a href="//infinityhacks.net">infinityhacks botnet</a></p>     
+<p align="center">Made By <a href="//infinityhacks.net">Prashant Asoliya</a></p>     
 <p align="center" style="font-size: 8px">v1.1.0</p>
 
 Inspired by L3MON (https://github.com/D3VL/L3MON)
