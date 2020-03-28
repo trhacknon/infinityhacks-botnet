@@ -47,10 +47,10 @@ A cloud based remote android managment suite, powered by NodeJS
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
     - `pm2 start index.js` <-- start the script
-    - `pm2 startup` <- to run Botnet on startup
+    - `pm2 startup` <- to run botnet on startup
 
 6. Set a Username & Password
-    1. Stop Botnet`pm2 stop index`
+    1. Stop botnet`pm2 stop index`
     2. Open `maindb.json` in a text editor
     3. under `admin` 
         - set the `username` as plain text
@@ -68,7 +68,7 @@ It's recommended to run Botnet behind a reverse proxy such as [NGINX](https://ww
 Infinityhacks Botnet is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="//infinityhacks.net">infinityhacks botnet</a></p>     
+<p align="center">Made By <a href="//infinityhacks.net">infinityhacks botnet</a></p>     
 <p align="center" style="font-size: 8px">v1.1.0</p>
 
 Inspired by L3MON (https://github.com/D3VL/L3MON)
