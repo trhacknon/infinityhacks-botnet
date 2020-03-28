@@ -49,7 +49,11 @@ A cloud based remote android managment suite, powered by NodeJS
     - `pm2 start index.js` <-- start the script
     - `pm2 startup` <- to run botnet on startup
 
-6. Set a Username & Password
+6. Default Username & Password
+    User Name: admin
+    Password: admin
+    
+7. Set Username & Password Manually  
     1. Stop botnet `pm2 stop index`
     2. Open `maindb.json` in a text editor
     3. under `admin` 
@@ -58,7 +62,7 @@ A cloud based remote android managment suite, powered by NodeJS
     4. save the file
     5. run `pm2 restart all`
 
-7. in your browser navigate to `http://<SERVER IP>:22533`
+8. in your browser navigate to `http://<SERVER IP>:22533`
     
 It's recommended to run botnet behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
