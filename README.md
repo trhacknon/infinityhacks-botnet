@@ -60,7 +60,7 @@ A cloud based remote android managment suite, powered by NodeJS
 
 7. in your browser navigate to `http://<SERVER IP>:22533`
     
-It's recommended to run Botnet behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+It's recommended to run botnet behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 
 ## Disclaimer
