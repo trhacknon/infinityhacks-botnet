@@ -66,6 +66,8 @@ A cloud based remote android managment suite, powered by NodeJS
     
 It's recommended to run botnet behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
+## Watch Practical Video
+https://www.youtube.com/watch?v=Q8tej2ey33c
 
 ## Disclaimer
 <b>Infinityhacks Botnet Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
@@ -74,8 +76,5 @@ Infinityhacks Botnet is built for both Educational and Internal use ONLY.</b>
 <br>
 <p align="center">Made By <a href="//infinityhacks.net">Prashant Asoliya</a></p>     
 <p align="center" style="font-size: 8px">v1.1.0</p>
-
-Watch Practical Video
-https://www.youtube.com/watch?v=Q8tej2ey33c
 
 Inspired by L3MON (https://github.com/D3VL/L3MON)
