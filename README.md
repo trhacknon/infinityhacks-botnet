@@ -75,4 +75,7 @@ Infinityhacks Botnet is built for both Educational and Internal use ONLY.</b>
 <p align="center">Made By <a href="//infinityhacks.net">Prashant Asoliya</a></p>     
 <p align="center" style="font-size: 8px">v1.1.0</p>
 
+Watch Practical Video
+https://www.youtube.com/watch?v=Q8tej2ey33c
+
 Inspired by L3MON (https://github.com/D3VL/L3MON)
